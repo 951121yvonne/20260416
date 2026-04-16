@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* 防止瀏覽器出現捲軸 */
+  background-color: #05050a; /* 設為深色，避免加載時閃爍白光 */
+  font-family: sans-serif;
+}
+
+canvas {
+  display: block;
+}
